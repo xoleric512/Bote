@@ -1,0 +1,14 @@
+{
+  "name": "xoleric-telegram-bot",
+  "version": "1.0.0",
+  "description": "Temporary test Telegram bot — Xoleric AI bridge to Hugging Face",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "telegraf": "^4.12.0"
+  }
+}
